@@ -1,0 +1,8 @@
+
+# exclude  folders
+node_modules/
+__pycache__/
+venv
+# exlude files
+config.py
+error.log
